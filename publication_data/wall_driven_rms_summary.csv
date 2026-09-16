@@ -1,0 +1,4 @@
+sample_set,stress_percent,heat_percent
+all positions,1.78,2.02
+near-wall interior,1.78,1.80
+bulk positions,1.78,2.24

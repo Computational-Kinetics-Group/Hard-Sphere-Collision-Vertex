@@ -1,0 +1,15 @@
+paper_location,data_file,content
+"Letter Fig. 1(a,b)",validation/wall_driven/data/natural_dsmc_campaign_summary.csv,wall-driven parity/comparison points with event weak-form and N=8 Hermite/vertex values
+Letter Fig. 1(c),validation/shock/data/shock_center_distribution_revised.csv,shock-center longitudinal distribution and reference/reconstruction curves
+Letter Fig. 1(d),validation/shock/data/shock_M5_convergence.csv,baseline cumulative-Hermite-order production convergence
+Supplement wall-driven profiles/validation,validation/wall_driven/data/natural_dsmc_campaign_aggregate.json,full tensors vectors profiles and N=2..8 reconstructions for four flow families
+Supplement wall-driven RMS table,validation/wall_driven/data/natural_dsmc_campaign_metrics.csv,normalized RMS errors for all/near/bulk subsets
+Supplement Mach-5 production profiles,validation/shock/data/shock_M5_production_summary.csv,event weak-form and N=14 vertex/Hermite production across shock
+Supplement shock sampling-statistics figure,validation/shock/data/sampling_scaling_convergence.csv,1x 2x and 4x convergence curves
+Supplement shock sampling block check,validation/shock/data/sampling_block_errors.csv,disjoint-block N=14 error estimates
+Supplement exact-degree convergence,validation/shock/data/shock_total_degree_convergence.csv,stress and heat RMS errors grouped by exact total incoming degree
+Supplement shock-center heat sectors,validation/shock/data/shock_center_heat_degree_sectors.csv,additive heat-production sectors by total degree
+Supplement Gaussian-reference study,validation/shock/data/shock_frame_production_convergence.csv,stress/heat production versus Hermite order for different Gaussian feet
+Supplement Gaussian-reference distribution study,validation/shock/data/shock_frame_distribution_convergence.csv,distribution reconstruction errors and coefficient magnitudes for different reference temperatures
+Supplement Gaussian-reference summary,validation/shock/data/shock_frame_study_summary.csv,headline reference-frame invariance numbers
+Supplement controlled coherent-leg validation,validation/engineered/extended_dsmc_validation_results.csv,collision-level DSMC tests of scalar law and heat-stress contraction

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or data, please cite the accompanying article
+  "Exact Collision Vertex for Stress and Heat Flux" and this repository.
+title: "Exact Collision Vertex for Stress and Heat Flux — code and data"
+type: software
+authors:
+  - name: "Computational Kinetics Group"
+repository-code: "https://github.com/Computational-Kinetics-Group/Hard-Sphere-Collision-Vertex"
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Exact Collision Vertex for Stress and Heat Flux"
+  authors:
+    - name: "Computational Kinetics Group"
